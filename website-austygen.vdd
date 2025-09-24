@@ -1,7 +1,10 @@
 ## Version Description Document for website-austygen
 
+website-austygen - 1.0.2
+- Fixed bad titling of webpage
+
 website-austygen - 1.0.1
-- Quick bugfix to see if I can fix issue.
+- Quick bugfix to see if I can fix the menu issue for mobile users.(it worked)
 
 website-austygen - 1.0.0
 - Initial Release of website-austygen
